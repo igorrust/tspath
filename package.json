@@ -2,8 +2,7 @@
   "name": "tspath",
   "version": "1.0.0",
   "scripts": {
-    "test": "tsx ./scripts/test-script/test-script.ts",
-    "test-alias": "tsx ./scripts/test-script/test-script-alias.ts"
+    "test": "tsx ./scripts/test-script/test-script.ts"
   },
   "license": "ISC",
   "devDependencies": {

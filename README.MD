@@ -4,8 +4,7 @@
 Issue related to https://github.com/privatenumber/tsx dependency
 
 ## Reproduction
-- 🆗 Run `npm run test` which correctly prints "Markdown" to the console 
-- ❌ Run `npm run test-alias` which prints the following to the console:
+- ❌ Run `npm run test` which prints the following to the console:
 
     ```
     PS C:\src\playground\tspath> npm run test-alias
