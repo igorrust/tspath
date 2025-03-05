@@ -1,0 +1,13 @@
+{
+  "name": "tspath",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "tsx ./scripts/test-script/test-script.ts",
+    "test-alias": "tsx ./scripts/test-script/test-script-alias.ts"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
